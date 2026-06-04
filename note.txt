@@ -1,0 +1,2 @@
+localStorage.setItem("__testDate", "2025-12-31")
+localStorage.removeItem("__testDate")
